@@ -5,7 +5,9 @@
 02. Download the powershell by running below command in Windows Terminal (Make sure Terminal is using Windows Powershell)
 ` winget install JanDeDobbeleer.OhMyPosh -s winget `
 if failed to initiate, go to windows store and install app installer. Below picture for reference-
+
 ![Image of app installer](https://i.ibb.co/xz6hqgh/app-installer.png)
+
 03. [Download the DaddyTimeMono NF font](https://drive.google.com/file/d/1DqRKAuQAvFVr39A8w1CeJYuiXf3kiuDd/) or any other [Nerd font](https://www.nerdfonts.com/)
 04. Make the downloaded font in settings of terminal. Pressing `Ctrl+Shift+,` will open the settings.json file.
 
