@@ -2,7 +2,7 @@
 ### Guide to setup oh-my-posh with powerline in windows
 
 01. Install the windows terminal from [store](https://aka.ms/terminal)
-02. Download the powershell by running below command in Windows Terminal (Make sure Terminal is using Windows Powershell)
+02. Download the OhMyPosh by running below command in Windows Terminal (Make sure Terminal is using Windows Powershell)
 ` winget install JanDeDobbeleer.OhMyPosh -s winget `
 if failed to initiate, go to windows store and install app installer. Below picture for reference-
 
