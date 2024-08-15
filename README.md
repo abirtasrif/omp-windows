@@ -55,7 +55,8 @@ it should be look like this-
 - Edit the file with notepad or any other text editor and paste and save below code, save and close.
 
 ```
-Windows Registry Editor Version 5.00 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Shell Extensions\Blocked]
+Windows Registry Editor Version 5.00
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Shell Extensions\Blocked]
 "{9F156763-7844-4DC4-B2B1-901F640F5155}"=-
 ```
 
